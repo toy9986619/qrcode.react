@@ -20,7 +20,7 @@ npm install @raynorlin/qrcode-react
 
 ```js
 import React from 'react';
-import QRCode = from '@raynorlin/qrcode-react';
+import QRCode from '@raynorlin/qrcode-react';
 
 React.render(
   <QRCode value="http://facebook.github.io/react/" />,
